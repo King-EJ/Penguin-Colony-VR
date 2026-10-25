@@ -47,16 +47,13 @@ room-scale VR through **OpenXR**, driven by a BepInEx 5 plugin.
 | Input | Action |
 |---|---|
 | **Left stick** | Move (relative to where you are looking) |
-| **Right trigger** | Interact / use |
+| **Right trigger** | Interact / use / swap |
 | **Right grip** | Push |
-| **Right primary** (A / X) | Hop |
-| **Right secondary** (B / Y) | Bark |
-| **Left primary** (X / Y) | Double bark |
-| **Left secondary** (Y / B) | Rewind |
+| **Right primary** A | Hop |
+| **Right secondary** B | Bark |
 | **Left grip** | Sprint |
-| **Left trigger** | First / third person toggle |
-| **Left stick click** | Take photo |
-| **Right stick click** | Lock on |
+| **RG+Leftstick** | First / third person toggle |
+
 
 ### Hotkeys
 
