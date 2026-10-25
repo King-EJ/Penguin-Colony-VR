@@ -19,6 +19,8 @@ room-scale VR through **OpenXR**, driven by a BepInEx 5 plugin.
 | Mod loader | BepInEx 5.4.23.5 x64 (already in your install — the log you attached shows it loading) |
 | Runtime | Any **OpenXR** runtime: Virtual Desktop, Quest Link, SteamVR, ALVR, … |
 | Graphics | Direct3D 11 or 12. If the game starts on Vulkan, add `-force-d3d11` |
+| **hold both grips 1.3 sec** | VR menu |
+
 
 ---
 
