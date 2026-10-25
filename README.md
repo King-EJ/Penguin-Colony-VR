@@ -53,6 +53,7 @@ room-scale VR through **OpenXR**, driven by a BepInEx 5 plugin.
 | **Right secondary** B | Bark |
 | **Left grip** | Sprint |
 | **RG+Leftstick** | First / third person toggle |
+| **A+B** | pause |
 
 
 ### Hotkeys
